@@ -11,3 +11,5 @@ Debug: Go step by step through your solution trying to find where you went wrong
 Reassess: Take a step back. Look at the problem from another perspective. Is there anything that can be abstracted to a more general approach?
 
 Research and Caveat.
+
+My Repo Link: https://github.com/toqawasfi/reading-notes/blob/main/Engineering.md
