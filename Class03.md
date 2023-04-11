@@ -55,3 +55,5 @@ else:
         print(fnf_error)
 finally:
     print('Cleaning up, irrespective of any exceptions.')
+
+    https://github.com/toqawasfi/reading-notes/blob/main/Class03.md
