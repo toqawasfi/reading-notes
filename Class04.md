@@ -1,3 +1,4 @@
+Link: https://github.com/toqawasfi/reading-notes/blob/main/Class04.md
 # What are the key differences between classes and objects in Python?
 class is the blueprint which defines the structure of the output while the object is an instance ,where this convept is common between all languages.
 Classes define attributes and methods, which can be accessed and modified by objects. Instances of a class can have their own set of attributes and can call their own set of methods. Classes can inherit from other classes, and they can also have class-level attributes and methods.
@@ -7,7 +8,8 @@ Recursion is a programming technique rely on dividing a problem into subproblems
 
 Ex: Factorial
 def factorial_recursive(n):
-    # Base case: 1! = 1
+    Base case: 1! = 1
+
     if n == 1:
         return 1
 
