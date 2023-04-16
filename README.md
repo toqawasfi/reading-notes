@@ -14,4 +14,5 @@
 | class03                   | [class03 ](./Class03.md)
 | class04                   | [class04 ](./Class04.md)
 | Linked_List               | [Linked_List](./Linked_List.md)
+| class06                   | [class06 ](./Class06.md)
 
