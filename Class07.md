@@ -1,3 +1,4 @@
+https://github.com/toqawasfi/reading-notes/blob/main/Class07.md
 Explain the concept of variable scope in Python and describe the difference between local and global scope. Provide an example illustrating the usage of both.
 Local Scope: A variable declared within a function or a code block has local scope. 
 Global Scope: A variable declared outside of any function or code block has global scope
