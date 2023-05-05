@@ -1,3 +1,4 @@
+
 Link:https://github.com/toqawasfi/reading-notes/blob/main/Class08.md
 
 ## Question one :
@@ -35,3 +36,4 @@ def register(func):
 @register
 def say_hello(name):
     return f"Hello {name}"
+
