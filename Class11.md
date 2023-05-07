@@ -38,19 +38,6 @@ EX: import numpy as np
 # create a 1-D array from a list
 a = np.array([1, 2, 3, 4])
 
-# create a 2-D array from a nested list
-b = np.array([[1, 2], [3, 4]])
 
-# create a 3-D array from a nested list of nested lists
-c = np.array([[[1, 2], [3, 4]], [[5, 6], [7, 8]]])
-
-# create a 1-D array of zeros
-d = np.zeros(5)
-
-# create a 2-D array of ones
-e = np.ones((3, 4))
-
-# create a 3-D array of random values between 0 and 1
-f = np.random.rand(2, 3, 4)
 
 
