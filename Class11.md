@@ -1,4 +1,4 @@
-Q1: upyterLab is a next-generation web-based user interface for Project Jupyter. It allows users to arrange their workspaces with notebooks, code editors, terminals, and outputs in a more flexible and powerful way than Jupyter Notebook. Some key features and benefits of JupyterLab include:
+Q1: JupyterLab is a next-generation web-based user interface for Project Jupyter. It allows users to arrange their workspaces with notebooks, code editors, terminals, and outputs in a more flexible and powerful way than Jupyter Notebook. Some key features and benefits of JupyterLab include:
 
 Multiple Document Interface (MDI): JupyterLab supports multiple tabs and panels, which can be arranged as per user's need. This feature provides users with more flexibility in working with multiple notebooks and other files.
 
