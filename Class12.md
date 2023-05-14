@@ -1,4 +1,4 @@
-Q1:Pandas is one of the most libraries in python used mainly for  data analysis and preprocessing ,provides special datastructures to deal with structured data.The two primary data structures in Pandas are the Series and the DataFrame.
+Q1:Pandas is one of the most libraries in python used mainly for  data analysis and preprocessing ,provides special datastructures to deal with structured data.The two primary data structures in Pandas are the Series and the DataFrame.another popular numerical computing library for Python, and provides additional functionality for data analysis and manipulation, making it a powerful tool for working with data.
 
 Q2:The two primary data structures in Pandas are Series and DataFrame.
 Series is a one-dimensional labeled array capable of holding any data type (integer, string, float, python objects, etc.).
