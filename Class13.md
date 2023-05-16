@@ -1,3 +1,4 @@
+https://github.com/toqawasfi/reading-notes/blob/main/Class13.md
 Q1:Can you explain the basic concept of linear regression and its purpose in the context of machine learning and data analysis?
 Linear regression is a statistical method used to model the relationship between a dependent variable and one or more independent variables. In other words, it's a way of estimating how a change in one variable affects the other variable(s).
 
