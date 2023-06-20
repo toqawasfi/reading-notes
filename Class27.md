@@ -1,3 +1,5 @@
+https://github.com/toqawasfi/reading-notes
+
 ### Explain the purpose and basic structure of Django models. How do they help in creating and managing database schema in a Django application?
 In Django, models are Python classes that represent database tables. They provide a high-level, object-oriented interface to interact with the underlying database. Models in Django help in creating and managing the database schema of a Django application.
 
