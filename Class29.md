@@ -1,3 +1,6 @@
+
+https://github.com/toqawasfi/reading-notes/blob/main/Class29.md
+
 ## What are the key benefits of using a Django Custom User Model, and how does it differ from the default Django User Model? 
 Flexibility: With a Custom User Model, you have the flexibility to define your own fields and behavior for the user model. You can customize the user model to fit the specific requirements of your application, such as adding additional fields or removing unnecessary fields.
 
